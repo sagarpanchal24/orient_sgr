@@ -1,0 +1,1 @@
+Powerpoint add-in manifest and related assests.
